@@ -12,7 +12,7 @@ A really dumb bash script for getting some nice tools on linux systems using eit
 ## Run me:
 Don't do this for scripts you don't trust! (Also, why do you trust me?)
 
-    wget -O - https://raw.githubusercontent.com/mkrupczak3/gettools/master/gettools.sh | bash
+    sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/gettools/master/gettools.sh | sudo bash
 
 ## Tools:
 amap
