@@ -14,6 +14,9 @@ Don't do this for scripts you don't trust! (Also, why do you trust me?)
 
     sudo wget -O - https://raw.githubusercontent.com/mkrupczak3/gettools/master/gettools.sh | sudo bash
 
+## If you liked this, you may also like:
+github.com/mkrupczak3/Bash-one-liners
+
 ## Tools:
 amap
 
