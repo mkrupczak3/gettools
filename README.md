@@ -1,5 +1,5 @@
 # gettools
-A really dumb bash script for getting some nice tools on linux systems using either apt or yum package managers
+A really dumb bash script for getting some nice tools on linux systems using either apt, yum, or arch package managers for Debian, Fedora, or Arch based systems
 ```bash
 #!/usr/bin/env bash
 if [ -n "`which apt-get`" ];
