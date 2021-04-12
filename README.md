@@ -1,5 +1,5 @@
 # gettools
-A really dumb bash script for getting some nice tools on *nix systems using either brew, apt, yum, or arch package managers for macOS/Darwin, Debian, Fedora, or Arch based systems
+A really dumb bash script for getting some nice tools on *nix systems using either brew, apt, yum, or pacman package managers for macOS/Darwin, Debian, Fedora, or Arch based systems
 ```bash
 #!/usr/bin/env bash
 if [ "$(uname)" == "Darwin" ];
